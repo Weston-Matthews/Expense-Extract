@@ -114,4 +114,4 @@ Total Expense                      18,382.84  17,848.30  18,531.12  ...  17,897.
 
 ## License
 
-TBD
+MIT. See [LICENSE](LICENSE).
